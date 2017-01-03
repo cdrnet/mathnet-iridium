@@ -1,5 +1,5 @@
 ﻿// Math.NET Iridium, part of the Math.NET Project
-// http://mathnet.opensourcedotnet.info
+// https://iridium.mathdotnet.com
 //
 // Copyright (c) 2002-2008, Christoph Rüegg,  http://christoph.ruegg.name
 //                          Joannes Vermorel, http://www.vermorel.com
@@ -23,7 +23,7 @@ using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 
 [assembly: AssemblyTitle("Math.NET Iridium - Performance Analysis")]
-[assembly: AssemblyDescription("http://mathnet.opensourcedotnet.info/")]
+[assembly: AssemblyDescription("https://iridium.mathdotnet.com/")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Math.NET Project")]
 [assembly: AssemblyProduct("Math.NET")]

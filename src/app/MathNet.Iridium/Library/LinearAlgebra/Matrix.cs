@@ -1,15 +1,15 @@
 //-----------------------------------------------------------------------
 // <copyright file="Matrix.cs" company="Math.NET Project">
-//    Copyright (c) 2002-2009, Joannes Vermorel, Christoph Rüegg.
+//    Copyright (c) 2002-2009, Joannes Vermorel, Christoph Rï¿½egg.
 //    All Right Reserved.
 // </copyright>
 // <author>
 //    Joannes Vermorel, http://www.vermorel.com
-//    Christoph Rüegg, http://christoph.ruegg.name
+//    Christoph Rï¿½egg, http://christoph.ruegg.name
 // </author>
 // <product>
 //    Math.NET Iridium, part of the Math.NET Project.
-//    http://mathnet.opensourcedotnet.info
+//    https://iridium.mathdotnet.com
 // </product>
 // <license type="opensource" name="LGPL" version="2 or later">
 //    This program is free software; you can redistribute it and/or modify

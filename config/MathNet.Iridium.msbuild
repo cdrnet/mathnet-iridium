@@ -9,7 +9,7 @@
     <PackageName>MathNet.Iridium</PackageName>
     <PackageTestName>$(PackageName).Test</PackageTestName>
     <PackageDescription>Math.NET Iridium Library</PackageDescription>
-    <PackageUrl>http://mathnet.opensourcedotnet.info/</PackageUrl>
+    <PackageUrl>https://iridium.mathdotnet.com/</PackageUrl>
   </PropertyGroup>
 
   <Import Project="MathNet.Common.msbuild" />

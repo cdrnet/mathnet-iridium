@@ -1,14 +1,14 @@
 //-----------------------------------------------------------------------
 // <copyright file="PoissonDistribution.cs" company="Math.NET Project">
-//    Copyright (c) 2002-2009, Christoph Rüegg.
+//    Copyright (c) 2002-2009, Christoph Rï¿½egg.
 //    All Right Reserved.
 // </copyright>
 // <author>
-//    Christoph Rüegg, http://christoph.ruegg.name
+//    Christoph Rï¿½egg, http://christoph.ruegg.name
 // </author>
 // <product>
 //    Math.NET Iridium, part of the Math.NET Project.
-//    http://mathnet.opensourcedotnet.info
+//    https://iridium.mathdotnet.com
 // </product>
 // <license type="opensource" name="LGPL" version="2 or later">
 //    This program is free software; you can redistribute it and/or modify
@@ -26,7 +26,7 @@
 //    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
 // </license>
 // <contribution>
-//    Troschuetz.Random Class Library, Stefan Troschütz (stefan@troschuetz.de)
+//    Troschuetz.Random Class Library, Stefan Troschï¿½tz (stefan@troschuetz.de)
 //    CNClass, Aachen University of Technology, Dirk Grunwald (grunwald@cs.uiuc.edu)
 // </contribution>
 //-----------------------------------------------------------------------
@@ -49,7 +49,7 @@ namespace MathNet.Numerics.Distributions
     /// <para>
     /// For details of the algorithm, see
     /// <a href="http://www.lkn.ei.tum.de/lehre/scn/cncl/doc/html/cncl_toc.html">
-    /// Communication Networks Class Library (TU München)</a>
+    /// Communication Networks Class Library (TU Mï¿½nchen)</a>
     /// </para>
     /// <para>
     /// pdf: f(x) = exp(-l)*l^x/x!; l = lambda

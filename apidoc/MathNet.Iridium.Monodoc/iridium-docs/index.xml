@@ -36,7 +36,7 @@
           <AttributeName>System.Reflection.AssemblyConfiguration("")</AttributeName>
         </Attribute>
         <Attribute>
-          <AttributeName>System.Reflection.AssemblyDescription("http://mathnet.opensourcedotnet.info/")</AttributeName>
+          <AttributeName>System.Reflection.AssemblyDescription("https://iridium.mathdotnet.com/")</AttributeName>
         </Attribute>
         <Attribute>
           <AttributeName>System.Reflection.AssemblyTitle("Math.NET Iridium: Scientific Numerical Library")</AttributeName>

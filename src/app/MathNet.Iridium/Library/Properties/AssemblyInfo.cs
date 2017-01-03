@@ -9,7 +9,7 @@
 // </author>
 // <product>
 //    Math.NET Iridium, part of the Math.NET Project.
-//    http://mathnet.opensourcedotnet.info
+//    https://iridium.mathdotnet.com
 // </product>
 // <license type="opensource" name="LGPL" version="2 or later">
 //    This program is free software; you can redistribute it and/or modify
@@ -36,7 +36,7 @@ using System.Security;
 using System.Security.Permissions;
 
 [assembly: AssemblyTitle("Math.NET Iridium: Scientific Numerical Library")]
-[assembly: AssemblyDescription("http://mathnet.opensourcedotnet.info/")]
+[assembly: AssemblyDescription("https://iridium.mathdotnet.com/")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Math.NET Project")]
 [assembly: AssemblyProduct("Math.NET")]

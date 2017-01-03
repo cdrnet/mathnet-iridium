@@ -1,14 +1,14 @@
 //-----------------------------------------------------------------------
 // <copyright file="Natural.cs" company="Math.NET Project">
-//    Copyright (c) 2002-2009, Christoph Rüegg.
+//    Copyright (c) 2002-2009, Christoph Rï¿½egg.
 //    All Right Reserved.
 // </copyright>
 // <author>
-//    Christoph Rüegg, http://christoph.ruegg.name
+//    Christoph Rï¿½egg, http://christoph.ruegg.name
 // </author>
 // <product>
 //    Math.NET Iridium, part of the Math.NET Project.
-//    http://mathnet.opensourcedotnet.info
+//    https://iridium.mathdotnet.com
 // </product>
 // <license type="opensource" name="LGPL" version="2 or later">
 //    This program is free software; you can redistribute it and/or modify
@@ -543,7 +543,7 @@ namespace MathNet.Numerics
 
         /// <summary>
         /// Multiplies two large naturals with the karatsuba algorithm; O(n^1.59).
-        /// Could be extended with FFT based algorithms by Schönhage/Strassen in future versions; O(nlognloglogn).
+        /// Could be extended with FFT based algorithms by Schï¿½nhage/Strassen in future versions; O(nlognloglogn).
         /// </summary>
         Natural
         MultiplyLarge(Natural number)

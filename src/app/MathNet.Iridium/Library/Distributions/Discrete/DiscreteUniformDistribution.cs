@@ -1,14 +1,14 @@
 //-----------------------------------------------------------------------
 // <copyright file="DiscreteUniformDistribution.cs" company="Math.NET Project">
-//    Copyright (c) 2002-2009, Christoph Rüegg.
+//    Copyright (c) 2002-2009, Christoph Rï¿½egg.
 //    All Right Reserved.
 // </copyright>
 // <author>
-//    Christoph Rüegg, http://christoph.ruegg.name
+//    Christoph Rï¿½egg, http://christoph.ruegg.name
 // </author>
 // <product>
 //    Math.NET Iridium, part of the Math.NET Project.
-//    http://mathnet.opensourcedotnet.info
+//    https://iridium.mathdotnet.com
 // </product>
 // <license type="opensource" name="LGPL" version="2 or later">
 //    This program is free software; you can redistribute it and/or modify
@@ -26,7 +26,7 @@
 //    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
 // </license>
 // <contribution>
-//    Troschuetz.Random Class Library, Stefan Troschütz (stefan@troschuetz.de)
+//    Troschuetz.Random Class Library, Stefan Troschï¿½tz (stefan@troschuetz.de)
 // </contribution>
 //-----------------------------------------------------------------------
 

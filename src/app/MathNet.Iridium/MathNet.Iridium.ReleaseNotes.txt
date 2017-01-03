@@ -2,8 +2,8 @@
 ==== Math.NET Iridium (Numerics) - 2008.8.16.470 (2008 August Release, Iteration 16) ====
 =========================================================================================
 
-Team: Christoph Rüegg, Joannès Vermorel, Matthew Kitchin
-http://mathnet.opensourcedotnet.info
+Team: Christoph Rï¿½egg, Joannï¿½s Vermorel, Matthew Kitchin
+https://iridium.mathdotnet.com
 
 SUMMARY
 -------
@@ -74,8 +74,8 @@ IRID-128: Linear Algebra - Vector Cross Product - indices offset
 ==== Math.NET Iridium (Numerics) - 2008.4.14.425 (2008 April Release, Iteration 14) ====
 ========================================================================================
 
-Team: Christoph Rüegg, Joannès Vermorel, Matthew Kitchin
-http://mathnet.opensourcedotnet.info
+Team: Christoph Rï¿½egg, Joannï¿½s Vermorel, Matthew Kitchin
+https://iridium.mathdotnet.com
 
 SUMMARY
 -------
@@ -114,9 +114,9 @@ IRID-124: Linear Algebra - Matrix.CopyToArray - wrong indexer in inner loop cond
 ==== Math.NET Iridium (Numerics) - 2008.3.12.405 (2008 March Release, Iteration 12) ====
 ========================================================================================
 
-Team: Christoph Rüegg, Joannès Vermorel, Matthew Kitchin
+Team: Christoph Rï¿½egg, Joannï¿½s Vermorel, Matthew Kitchin
 New Contributions: Mike Shugai
-http://mathnet.opensourcedotnet.info
+https://iridium.mathdotnet.com
 
 SUMMARY
 -------
@@ -166,7 +166,7 @@ IRID-110: Remove Certificate Signing (cert validation causes network access)
 ===========================================================================================
 
 Team: Christoph Ruegg, Joannes Vermorel
-http://mathnet.opensourcedotnet.info
+https://iridium.mathdotnet.com
 
 SUMMARY
 -------
@@ -226,7 +226,7 @@ IRID-7:  Unit Tests - Restore temporarely removed Unit Tests
 =================================================================
 
 Author: Christoph Ruegg, Joannes Vermorel
-http://mathnet.opensourcedotnet.info
+https://iridium.mathdotnet.com
 
 What's new in release 8?
 - Completely revised FFT implementation
